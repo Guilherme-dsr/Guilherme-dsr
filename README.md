@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Guilherme-dsr/Guilherme-dsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá 👋, sou Guilherme Rodrigues
+### Olá 👋, sou Guilherme Rodrigues
 
 - 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas
 - 👨‍💻 meus projetos estão disponíveis na guia repositórios
