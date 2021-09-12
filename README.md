@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá 👋, sou Guilherme Rodrigues
+
+- 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas
+- 👨‍💻 meus projetos estão disponíveis na guia repositórios
+- 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
+
+Vamos nos conectar no linkedin:
+https://www.linkedin.com/in/guilherme-dsr/
+
+
