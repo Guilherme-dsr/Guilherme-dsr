@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 Vamos nos conectar no linkedin:
 <p>
-<a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 
