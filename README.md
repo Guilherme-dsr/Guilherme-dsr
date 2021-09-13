@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ### Olá 👋, sou Guilherme Rodrigues
 
 - 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas
+- ⚡ Técnico em Informática
 - 👨‍💻 meus projetos estão disponíveis na guia repositórios
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
 
 Vamos nos conectar no linkedin:
 <p>
-<a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="35" height="35" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 
