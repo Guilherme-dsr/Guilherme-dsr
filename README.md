@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 👨‍💻 meus projetos estão disponíveis na guia repositórios
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
 
-Vamos nos conectar no linkedin:<br>
+#Vamos nos conectar no linkedin:
+<p>
 <a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-
+</p>
 
