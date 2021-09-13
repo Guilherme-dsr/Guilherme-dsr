@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
 
 Vamos nos conectar no linkedin:
-https://www.linkedin.com/in/guilherme-dsr/
-
 <a href="https://www.linkedin.com/in/guilherme-dsr/" target="_blank"><img align="left" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 
 
