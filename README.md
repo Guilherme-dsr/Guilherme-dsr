@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas
 - ⚡ Técnico em Informática
-- 👨‍💻 meus projetos estão disponíveis na guia repositórios
+- 👨‍💻 Meus projetos estão disponíveis na guia repositórios
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
 
 Vamos nos conectar no linkedin:
