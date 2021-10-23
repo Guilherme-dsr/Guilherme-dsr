@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Olá 👋, sou Guilherme Rodrigues
 
 <div style="display: inline_block">
-- 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas
-- ⚡ Técnico em Informática
-- 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios
+- 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas <br>
+- ⚡ Técnico em Informática <br>
+- 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
 </div>
   
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 <br>
 
