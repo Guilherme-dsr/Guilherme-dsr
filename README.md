@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá 👋, sou Guilherme Rodrigues
+## Olá, sou Guilherme Rodrigues
 
 <div style="display: inline_block">
 - 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas <br>
