@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Olá, sou Guilherme Rodrigues
 
 <div style="display: inline_block">
-- 👨🏻‍🎓 Atualmente graduando em análise e desenvolvimento de sistemas <br>
+- 👨🏻‍🎓 Graduado em análise e desenvolvimento de sistemas <br>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
